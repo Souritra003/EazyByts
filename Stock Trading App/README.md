@@ -1,6 +1,4 @@
 # Stock Trading Application <br/>
- ## Final Project - Web Development Tools and Methods ( INFO 6250 ) <br/>
-
 ### Project Description
 Online Stock Trader lets you trade, invest, track and review stocks using a single account. 
 Live streaming quotes of stocks and currencies allow you to keep up to date with the fast 
@@ -37,11 +35,4 @@ based on your spending habits and portfolio. Track stocks using customized watch
 3. Boot-Strap
 4. CSS3
 5. HTML5
-#### API
-1. Bar-chart on Demand API: https://www.barchart.com/ondemand/api
-2. World Trading Data: https://www.worldtradingdata.com/
-3. Investors Exchange (IEX): https://iextrading.com/
 
-### Run the application 
-Go to stocktrader root folder  
-Run the following command: 'mvn spring-boot:run'
